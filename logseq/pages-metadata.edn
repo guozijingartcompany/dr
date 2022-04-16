@@ -25,15 +25,6 @@
  {:block/name "contents",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
- {:block/name "copyright",
-  :block/created-at 1650032782441,
-  :block/updated-at 1650032782441}
- {:block/name "copyright.版权",
-  :block/created-at 1650032913011,
-  :block/updated-at 1650032913011}
- {:block/name "copyright.版权声明",
-  :block/created-at 1650032916737,
-  :block/updated-at 1650032916737}
  {:block/name "doing",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
