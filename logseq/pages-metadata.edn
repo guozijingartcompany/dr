@@ -3,7 +3,7 @@
   :block/updated-at 1650112595215}
  {:block/name "2022培训班错题",
   :block/created-at 1650112567280,
-  :block/updated-at 1650180211121}
+  :block/updated-at 1650181365583}
  {:block/name "2022年4月给爸爸的一封信",
   :block/created-at 1650122498245,
   :block/updated-at 1650122629952}
@@ -73,9 +73,6 @@
  {:block/name "句型转换板块",
   :block/created-at 1650181299874,
   :block/updated-at 1650181299874}
- {:block/name "缩写说明",
-  :block/created-at 1650181299623,
-  :block/updated-at 1650181299623}
  {:block/name "英语错题集",
   :block/created-at 1650112464373,
   :block/updated-at 1650112649382}
@@ -85,6 +82,9 @@
  {:block/name "词汇板块",
   :block/created-at 1650181300669,
   :block/updated-at 1650181300669}
+ {:block/name "说明",
+  :block/created-at 1650181299623,
+  :block/updated-at 1650181462895}
  {:block/name "课外介词板块",
   :block/created-at 1650181299321,
   :block/updated-at 1650181299321}
