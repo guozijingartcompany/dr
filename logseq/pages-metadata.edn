@@ -3,7 +3,7 @@
   :block/updated-at 1650118664747}
  {:block/name "2022培训班错题",
   :block/created-at 1650118664927,
-  :block/updated-at 1650118664927}
+  :block/updated-at 1650160773005}
  {:block/name "2022年4月给爸爸的一封信",
   :block/created-at 1650122498245,
   :block/updated-at 1650122629952}
@@ -37,15 +37,6 @@
  {:block/name "contents",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
- {:block/name "copyright",
-  :block/created-at 1650032782441,
-  :block/updated-at 1650032782441}
- {:block/name "copyright.版权",
-  :block/created-at 1650032913011,
-  :block/updated-at 1650032913011}
- {:block/name "copyright.版权声明",
-  :block/created-at 1650032916737,
-  :block/updated-at 1650032916737}
  {:block/name "doing",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
