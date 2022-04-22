@@ -22,7 +22,7 @@
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
- :ui/enable-tooltip? true
+ :ui/enable-tooltip? false
 
  :feature/enable-block-timestamps? false
 
@@ -166,7 +166,6 @@
 
  :ref/linked-references-collapsed-threshold 50
  :favorites []
- :graph/settings {:builtin-pages? false}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
