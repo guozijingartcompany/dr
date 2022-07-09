@@ -1,9 +1,6 @@
 [{:block/name "2022 课外练习错题",
   :block/created-at 1650112595215,
   :block/updated-at 1650436370902}
- {:block/name "2022fdls错题",
-  :block/created-at 1657339094455,
-  :block/updated-at 1657339472348}
  {:block/name "2022培训班错题",
   :block/created-at 1650112567280,
   :block/updated-at 1650181365583}
@@ -55,12 +52,6 @@
  {:block/name "c",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
- {:block/name "canceled",
-  :block/created-at 1657109874362,
-  :block/updated-at 1657109874362}
- {:block/name "cancelled",
-  :block/created-at 1657109874358,
-  :block/updated-at 1657109874358}
  {:block/name "card",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
@@ -95,20 +86,8 @@
   :block/created-at 1656778164385,
   :block/updated-at 1656994785404}
  {:block/name "jul 5th, 2022",
-  :block/created-at 1657010228872,
-  :block/updated-at 1657078121683}
- {:block/name "jul 6th, 2022",
-  :block/created-at 1657036844843,
-  :block/updated-at 1657258339512}
- {:block/name "jul 7th, 2022",
-  :block/created-at 1657170139999,
-  :block/updated-at 1657258280216}
- {:block/name "jul 8th, 2022",
-  :block/created-at 1657242457474,
-  :block/updated-at 1657242457474}
- {:block/name "jul 9th, 2022",
-  :block/created-at 1657296003075,
-  :block/updated-at 1657296003075}
+  :block/created-at 1656994771764,
+  :block/updated-at 1656994832880}
  {:block/name "jun 30th, 2022",
   :block/created-at 1656587189216,
   :block/updated-at 1656599024108}
@@ -118,6 +97,9 @@
  {:block/name "later",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
+ {:block/name "may 31st, 2022",
+  :block/created-at 1656833021443,
+  :block/updated-at 1656833021443}
  {:block/name "now",
   :block/created-at 1650036563370,
   :block/updated-at 1650036563370}
@@ -168,7 +150,7 @@
   :block/updated-at 1650700468436}
  {:block/name "英语错题集",
   :block/created-at 1650112464373,
-  :block/updated-at 1657339094456}
+  :block/updated-at 1656995417092}
  {:block/name "词性与词形转换板块",
   :block/created-at 1650182621274,
   :block/updated-at 1655643299617}
